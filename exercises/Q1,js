@@ -1,0 +1,7 @@
+const student = {
+    id: 101,
+    name:"john",
+    email:"john@example.com"
+};
+const json Text = JSON.stringify(student);
+console.log(JsonText);
